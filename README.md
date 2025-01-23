@@ -8,7 +8,7 @@ Este proyecto consiste en el diseño, creación y normalización de una base de 
 
 ## Tareas realizadas.
 
-### 1. **📘 Modelo Entidad-Relación (E/R):**
+### 1. **📘 Esquema Entidad-Relación (E/R):**
 
    - Diseño de un modelo E/R que representa la estructura de la base de datos normalizada.
 
@@ -17,7 +17,7 @@ Este proyecto consiste en el diseño, creación y normalización de una base de 
    - Creación de un diagrama visual para facilitar la comprensión.
 
 
-### 2. **📊 Modelo Lógico de la Base de Datos:**
+### 2. **📊 Esquema de Tablas de la Base de Datos:**
 
    - Conversión del modelo E/R en un modelo lógico.
 
@@ -63,11 +63,11 @@ Este proyecto consiste en el diseño, creación y normalización de una base de 
 
 ## Documentos del repositorio:
 
-1. **🖼️ Diagrama del Modelo Entidad-Relación (E/R):**
+1. **🖼️ Esquema Entidad-Relación (E/R):**
 
    - Archivo visual (PNG/JPG/PDF) del diagrama E/R.
 
-2. **🖼️ Diagrama del Modelo Lógico:**
+2. **🖼️ Esquema Lógico:**
 
    - Archivo visual (PNG/JPG/PDF) del Modelo lógico de tablas.
 
@@ -114,6 +114,6 @@ Este proyecto consiste en el diseño, creación y normalización de una base de 
 
 ## Autores.
 
-Este proyecto fue desarrollado en equipo por [Daniel Garrido Prados](https://github.com/Danielgarpra/SQL_projet.git), [Vanessa Lopez Aguilera](https://github.com/VanessaLpzAg/Proyecto_BBDD.git), [Juan Zubiaga](). 
+Este proyecto fue desarrollado en equipo por [Daniel Garrido Prados](https://github.com/Danielgarpra/SQL_projet.git), [Vanessa Lopez Aguilera](https://github.com/VanessaLpzAg/Proyecto_BBDD.git), [Juan Zubiaga Delclaux](https://github.com/JZubiaga13/Proyecto_BBDD). 
 
 ---
